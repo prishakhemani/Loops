@@ -15,7 +15,9 @@ Using loops to print the Multiplication (upto 10) table of an integer that is in
 # Algorithm
 
 1)Start
+
 2)Print'Enter an integer'
+
 Take an integer input
 Print 'Using for loop'
 Initializing an integer ('i') with with value '0' and incrementing it to 9, meaning the loop runs 10 times. For each value of the integer 'i+1', multiply the integer input.
